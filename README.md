@@ -20,5 +20,8 @@ In this web applications are create four functions basic
 
 
 Step 1 Donwload 
-Step 2 C:\xampp\htdocs\laravel-5.2-Sign-Up-Sign-in in cmd composer update 
+
+Step 2 C:\xampp\htdocs\laravel-5.2-Sign-Up-Sign-in in cmd composer update
+
 Step 3 Run in  php artisan serve
+
