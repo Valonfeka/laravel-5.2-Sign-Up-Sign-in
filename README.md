@@ -19,9 +19,10 @@ Contact:valon.fek@gmail.com
 ###4.And Read from database
 
 
-#Step 1 Donwload 
+### *Step 1 Donwload 
 
-#Step 2 C:\xampp\htdocs\laravel-5.2-Sign-Up-Sign-in in cmd composer update
+### *Step 2 C:\xampp\htdocs\laravel-5.2-Sign-Up-Sign-in in cmd composer update
 
-#Step 3 Run in  php artisan serve
+### *Step 3 Run in  php artisan serve
 
+ 
